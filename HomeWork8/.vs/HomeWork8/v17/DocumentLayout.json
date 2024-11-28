@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\OneDrive\\Desktop\\Statistics\\HomeWork8\\HomeWork8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{912E0B1D-BEB8-4395-B2B8-1027FD065E90}|HomeWork8.csproj|c:\\users\\utente\\onedrive\\desktop\\statistics\\homework8\\homework8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{912E0B1D-BEB8-4395-B2B8-1027FD065E90}|HomeWork8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{912E0B1D-BEB8-4395-B2B8-1027FD065E90}|HomeWork8.csproj|C:\\Users\\Utente\\OneDrive\\Desktop\\Statistics\\HomeWork8\\HomeWork8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{912E0B1D-BEB8-4395-B2B8-1027FD065E90}|HomeWork8.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\OneDrive\\Desktop\\Statistics\\HomeWork8\\HomeWork8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Utente\\OneDrive\\Desktop\\Statistics\\HomeWork8\\HomeWork8\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAgwJ8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:18:35.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Utente\\OneDrive\\Desktop\\Statistics\\HomeWork8\\HomeWork8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Utente\\OneDrive\\Desktop\\Statistics\\HomeWork8\\HomeWork8\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:12:14.504Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
